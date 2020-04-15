@@ -4,4 +4,5 @@ do
 	echo "Line $i";
 	echo "ANother Line $i";
 done
+sleep 500
 
